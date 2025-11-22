@@ -1,0 +1,14 @@
+# Socket Error Detection Project Dependencies
+
+# Core dependencies (mostly using standard library)
+# No external packages required for basic functionality
+
+# Optional: For enhanced logging and debugging
+colorama==0.4.6
+
+# Optional: For better CLI interface
+prompt-toolkit==3.0.43
+
+# Development dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
