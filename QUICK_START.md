@@ -1,5 +1,26 @@
 # Quick Start Guide
 
+
+
+initial installation 👍
+
+
+1. create a virtual environment
+cd "c:\Users\ThinkMaster\Documents\Andy\socket_error_detection" ; python -m venv venv
+
+2. activate the virtual environment
+
+cd "c:\Users\ThinkMaster\Documents\Andy\socket_error_detection" ; .\venv\Scripts\Activate.ps1 ; python -m pip install --upgrade pip ; pip install -r requirements.txt
+
+2. activate the virtual environment (cmd)
+
+cd /d "c:\Users\ThinkMaster\Documents\Andy\socket_error_detection" ; venv\Scripts\activate.bat ; python -m pip install --upgrade pip ; pip install -r requirements.txt
+
+
+
+
+
+
 ## 🚀 Running the Project
 
 ### Step 1: Open Three Terminals (Command Prompts)
